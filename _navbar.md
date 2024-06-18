@@ -19,6 +19,6 @@
   - [俄罗斯方块](https://binaryify.github.io/vue-tetris/?lan=zh)
   - [JSON在线解析](https://bytesfly.github.io/json/)
   - [烟花](pages/fireworks.html ':ignore')
-- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/bytesfly/blog)
+- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/A-cyan/blog)
 
 
