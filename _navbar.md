@@ -1,4 +1,4 @@
-- [<span class="iconfont icon-book3"></span> 首页](https://bytesfly.vercel.app/)
+- [<span class="iconfont icon-book3"></span> 首页](https://A-cyan.github.io/blog)
 - [<span class="iconfont icon-icon_fabu"></span> 导航](README.md)
   - [Java](README?id=Java)
   - [大数据](README?id=大数据)
@@ -12,7 +12,6 @@
   - [程序人生](README?id=程序人生)
   - [面试题](README?id=面试题)
   - [LeetCode](README?id=LeetCode)
-- [<span class="iconfont icon-lianjie"></span> 友链](about/Friends.md)  
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](about/)
 - <span class="iconfont icon-xiangkan"></span> 探索
   - [Mac](https://bytesfly.github.io/playground-macos/)
